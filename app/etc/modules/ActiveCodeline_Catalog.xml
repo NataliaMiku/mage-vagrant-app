@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <ActiveCodeline_Catalog>
+            <active>true</active>
+            <codePool>local</codePool>
+        </ActiveCodeline_Catalog>
+    </modules>
+</config>
