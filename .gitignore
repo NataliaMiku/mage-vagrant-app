@@ -113,7 +113,7 @@
 /skin/frontend/rfb/default/default/bower_components/
 /skin/install/
 /var/
-/.htaccess
+#/.htaccess
 /.htaccess.sample
 /.idea/
 /api.php
